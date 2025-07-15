@@ -177,6 +177,138 @@ career-profile:
     git desktop 설치 https://desktop.github.com/download/
 
     (gui 포함 git)
+
+    ---
+
+    -원격에 저장된 레포지터리를 로컬에 클론해와서 사용
+
+    지킬 무료 템플릿 활용, 웹 구성     https://jekyll-themes.com/free
+
+    원격 레포지터리에 업데이트
+
+    Cntrl + ,  [ autosave ] → delay
+
+    VScode 한글 확장 설치.
+
+    파일명은 공백 → _ 로 수정. 공백은 문제가 많음.
+
+    git add - 나의 코드 변경점을 로컬 레포지토리에 등록 
+
+    ![image.png](attachment:073edfff-f6e7-4926-8d81-1f173a90a9fa:image.png)
+
+    ![image.png](attachment:1466f583-a97b-4ca4-934e-4bfd0e6ec7ba:image.png)
+
+    ---
+
+    동적웹 - DB
+
+    ---
+
+    ## 노션 명령어
+
+    # [**Markdown 스타일**](https://www.notion.com/ko/help/keyboard-shortcuts?g-exp=marketing_localization_force_redirect_gate--on%2Cmay_13_pricing_updates--on%2Cuse_transcend_for_cookie_consent_on_front--on&nxtPslug=keyboard-shortcuts#markdown-%EC%8A%A4%ED%83%80%EC%9D%BC)
+
+    **텍스트 중간에 사용할 수 있는 Markdown**
+
+    - 텍스트 양쪽에 **`*`**를 입력하면 **굵은 글씨**로 표시됩니다.
+    - 텍스트 양쪽에 를 입력하면 *기울임꼴*로 표시됩니다.
+    - 텍스트 양쪽에 ` 기호를 입력하면 **`인라인 코드`**를 작성할 수 있습니다. (숫자키 1 왼쪽에 있는 기호입니다).
+    - 텍스트 양쪽에 **`~`** 기호를 입력하면 취소선이 그어집니다.
+
+    **새로운 줄이나 콘텐츠 블록 시작 부분에 사용할 수 있는 Markdown**
+
+    - 글머리 기호 목록을 생성하려면 , , 또는 **`+`**를 입력한 후 **`스페이스`** 키를 누르세요.
+    - **`[]`**를 입력하고 **`space`**를 누르면 할 일 목록의 체크박스가 만들어집니다. 괄호 사이에 **`띄어쓰기`**는 없습니다.
+    - **`1.`**, **`a.`**, **`i.`** 다음 **`Space`** 키를 눌러 번호 매기기 목록을 생성할 수 있습니다.
+    - **`#`** 다음 **`Space`** 키를 눌러 H1 제목을 생성할 수 있습니다.
+    - **`##`** 다음 **`Space`**를 입력하면 제목2(중제목)을 만듭니다.
+    - **`###`** 다음 **`Space`** 키를 눌러 H3 소제목을 생성할 수 있습니다.
+    - **`>`** 다음 **`Space`** 키를 눌러 토글 목록을 생성할 수 있습니다.
+    - **`"`** 다음 **`Space`** 키를 눌러 인용 블록을 생성할 수 있습니다.
+
+    # [**콘텐츠 만들고 꾸미기**](https://www.notion.com/ko/help/keyboard-shortcuts?g-exp=marketing_localization_force_redirect_gate--on%2Cmay_13_pricing_updates--on%2Cuse_transcend_for_cookie_consent_on_front--on&nxtPslug=keyboard-shortcuts#%EC%BD%98%ED%85%90%EC%B8%A0-%EB%A7%8C%EB%93%A4%EA%B3%A0-%EA%BE%B8%EB%AF%B8%EA%B8%B0)
+
+    - **`Enter`**를 누르면 텍스트 한 줄을 삽입합니다.
+    - **`Shift`** + **`Enter`**를 누르면 텍스트 블록 안에서 줄을 바꿉니다.
+    - **`Cmd/Ctrl`** + **`Shift`** + **`M`**을 누르면 댓글을 달 수 있습니다.
+    - **`--`**(대시 3개)를 입력하면 구분선을 만듭니다.
+    - 텍스트를 선택하고 **`Cmd/Ctrl`** + **`B`**를 누르면 **굵게** 표시됩니다.
+    - 텍스트를 선택하고 **`Cmd/Ctrl`** + **`I`**를 누르면 *기울임꼴*로 표시됩니다.
+    - 텍스트를 선택하고 **`Cmd/Ctrl`** + **`U`**를 누르면 밑줄이 그어집니다.
+    - 텍스트를 선택하고 **`Cmd/Ctrl`** + **`Shift`** + **`S`**를 누르면 취소선이 그어집니다.
+    - 텍스트를 선택하고 **`Cmd/Ctrl`** + **`K`**를 누르면 링크를 추가할 수 있습니다. 선택한 텍스트에 **`Cmd/Ctrl`** + **`V`**로 URL을 붙여넣기해도 링크를 추가할 수 있습니다.
+    - 텍스트를 선택하고 **`Cmd/Ctrl`** + **`E`**를 누르면 인라인 코드로 표시됩니다.
+    - **`탭`**을 눌러 하위 컨텐츠를 들여쓰기합니다. 들여쓰기한 블록은 위에 있는 블록의 하위 블록이 됩니다. 상위 블록을 선택하면 모든 하위 블록이 함께 선택됩니다.
+    - **`Shift`** + **`Tab`**을 누르면 내어쓰기합니다.
+    - 블록의 시작이나 끝에서 **`/전환`**을 입력하면 다른 유형의 블록으로 전환할 수 있습니다. 메뉴가 나타나면 원하는 블록 유형을 선택하세요.
+    - 텍스트 블록의 시작이나 끝에서 **`/색`**을 입력하면 글자색이나 배경색을 바꿀 수 있습니다. 색을 없애려면 **`/기본색`**을 입력하세요. 예를 들어, **`/파란색`**, **`/파란색 배경`**을 입력할 수 있어요.
+
+    아래 모든 콘텐츠 생성 단축키의  **`Cmd`** + **`Option`**은 Mac 조합, **`Ctrl`** + **`Shift`**는 Windows와 Linux 조합입니다.
+
+    [](https://www.notion.com/_next/image?url=%2Ffront-static%2Fshared%2Fcallouts%2Fnote-illustration.png&w=128&q=75)
+
+    참고: Windows 기기의 경우 **`Ctrl`** + **`Shift`** 조합이 이미 다른 기능에 사용되고 있을 수 있습니다. [여기에서 자세히 알아보세요](https://answers.microsoft.com/en-us/windows/forum/all/how-to-disable-ctrlshift-shortcut-for-switching/4fa07ac4-afca-492e-9d06-62100042b4b6).
+
+    - **`Cmd/Ctrl`** + **`Option/Shift`** + **`0`**: 텍스트 생성
+    - **`Cmd/Ctrl`** + **`Option/Shift`** + **`1`**: 제목1 생성
+    - **`Cmd/Ctrl`** + **`Option/Shift`** + **`2`**: 제목2 생성
+    - **`Cmd/Ctrl`** + **`Option/Shift`** + **`3`**: 제목3 생성
+    - **`Cmd/Ctrl`** + **`Option/Shift`** + **`4`**: 할 일 목록 체크박스 생성
+    - **`Cmd/Ctrl`** + **`Option/Shift`** + **`5`**: 글머리 기호 목록 생성
+    - **`Cmd/Ctrl`** + **`Option/Shift`** + **`6`**: 숫자 매기기 목록 생성
+    - **`Cmd/Ctrl`** + **`Option/Shift`** + **`7`**: 토글 목록 생성
+    - **`Cmd/Ctrl`** + **`Option/Shift`** + **`8`**: 코드 블록 생성
+    - **`Cmd/Ctrl`** + **`Option/Shift`** + **`9`**: 새 페이지 생성 또는 해당 텍스트 블록을 페이지로 전환
+    - **`Cmd/Ctrl`** + **`+`**: 확대해서 보기
+    - **`Cmd/Ctrl`** + : 축소해서 보기
+    - **`Cmd/Ctrl`** + **`Shift`** + **`U`**: 상위 페이지로 이동하기
+    - **`Option/Alt`** 키를 누른 채로 콘텐츠 드래그 & 드롭: 페이지 콘텐츠 복제
+
+    # [**블록 편집하고 옮기기**](https://www.notion.com/ko/help/keyboard-shortcuts?g-exp=marketing_localization_force_redirect_gate--on%2Cmay_13_pricing_updates--on%2Cuse_transcend_for_cookie_consent_on_front--on&nxtPslug=keyboard-shortcuts#%EB%B8%94%EB%A1%9D-%ED%8E%B8%EC%A7%91%ED%95%98%EA%B3%A0-%EC%98%AE%EA%B8%B0%EA%B8%B0)
+
+    한 줄 (또는 한 문단)에서 이미지 또는 임베드까지, Notion의 모든 요소는 블록입니다. 이 단축키로 모든 선택한 블록을 편집할 수 있습니다.
+
+    - **`Esc`**: 현재 블록을 선택하거나, 선택된 블록을 선택 해제합니다.
+    - **`Cmd/Ctrl`** + **`a`**: 한 번 누르면 현재 커서 위치의 블록을 선택합니다.
+    - **`Space`**: 선택한 이미지를 전체 화면으로 열거나, 전체 화면을 종료합니다.
+    - **`방향키`**: 다른 블록을 선택합니다.
+    - **`Shift`** + **`위/아래 방향키`**: 위/아래 블록을 함께 선택합니다.
+    - Mac에서 **`Cmd`** + **`Shift`** + **`클릭`**, Windows/Linux에서 **`Alt + Shift + 클릭`**: 블록 전체를 선택하거나 선택 해제합니다.
+    - **`Shift`** + **`클릭`**: 다른 블록과 그 사이의 모든 블록을 선택합니다.
+    - **`Backspace`** 또는 **`Delete`**: 선택한 블록을 삭제합니다.
+    - **`Cmd/Ctrl`** + **`D`**: 선택한 블록을 복제합니다.
+    - **`Enter`**: 선택한 블록의 텍스트를 편집하거나, 페이지 안의 페이지를 엽니다.
+    - **`Cmd/Ctrl`** + **`/`**: 선택한 모든 블록을 편집하거나 변경합니다.
+        - 이 단축키를 사용하면 블록 유형이나 색을 바꿀 수 있고, 블록을 편집, 복제, 이동할 수 있습니다. 팝업 메뉴 상단 텍스트 박스에 원하는 작업이나 블록, 색을 입력하세요.
+    - 데이터베이스에서 여러 행이나 카드를 선택하고 **`Cmd/Ctrl`** + **`/`**를 입력해 한 번에 편집하세요.
+    - **`Cmd/Ctrl`** + **`Shift`** + **`방향키`**: 선택한 블록을 이동합니다.
+    - **`Cmd/Ctrl`** + **`Option/Alt`** + **`T`**: 모든 토글 목록을 펼치거나 닫습니다.
+    - **`Cmd/Ctrl`** + **`Shift`** + **`H`**: 마지막으로 사용한 글자색이나 배경색을 적용합니다.
+    - **`Cmd/Ctrl`** + **`Enter`**: 현재 블록을 수정합니다. 수정 작업에는 아래와 같은 작업이 포함됩니다.
+        - 페이지 열기
+        - 할 일 목록 체크 또는 체크 해제
+        - 토글 목록 펼치거나 닫기
+        - 임베드나 이미지를 전체 화면으로 열기
+
+    # [**슬래시 명령**](https://www.notion.com/ko/help/keyboard-shortcuts?g-exp=marketing_localization_force_redirect_gate--on%2Cmay_13_pricing_updates--on%2Cuse_transcend_for_cookie_consent_on_front--on&nxtPslug=keyboard-shortcuts#%EC%8A%AC%EB%9E%98%EC%8B%9C-%EB%AA%85%EB%A0%B9)
+
+    Notion에서 **`/`**를 누르면 삽입할 수 있는 콘텐츠 블록의 메뉴가 나타납니다. **`/`** 다음 원하는 블록 이름을 입력해 더 빠르게 원하는 블록을 찾을 수 있죠. 아래와 같은 블록 유형 중에서 선택할 수 있습니다.
+
+    # **기본**
+
+    - **`/텍스트`**나 **`/일반`**은 새 텍스트 블록을 만듭니다.
+    - **`/페이지`**는 새 페이지를 만듭니다. **`Enter`**를 누르면 자동으로 열립니다.
+    - **`/글머리 기호`**는 글머리 기호 목록을 만듭니다.
+    - **`/번호`**는 번호 매기기 목록을 만듭니다.
+    - **`/할일`**은 체크박스로 나타나는 할 일 목록을 만듭니다.
+    - **`/토글`**은 토글 목록을 만듭니다.
+    - **`/구분선`**은 연한 회색의 구분선을 만듭니다.
+    - **`/인용`**은 글씨체가 큰 인용 블록을 만듭니다.
+    - **`/제목1`**이나 **`/#`**는 제목1(대제목)을 만듭니다.
+    - **`/제목2`**나 **`/##`**는 제목2(중제목)을 만듭니다.
+    - **`/제목3`**이나 **`/###`**는 제목3(소제목)을 만듭니다.
+    - **`/링크`**는 워크스페이스 내 다른 페이지로 연결되는 링크를 만듭니다.
+    - **`Esc`**로 **`/`** 메뉴를 끌 수 있습니다. 명령어를 사용하지 않고 /를 텍스트로 입력할 때 편리해요.
 education:
   title: Education
   info:
